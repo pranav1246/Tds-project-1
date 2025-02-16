@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+python-dotenv
+httpx
+jsonschema
+faker
+numpy
+pillow
+python-dateutil
